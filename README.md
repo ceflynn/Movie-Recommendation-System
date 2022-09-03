@@ -1,13 +1,17 @@
-# Movie Reccomendation System
+# Netflix New User Movie Reccomendation System
 
 ## Overview
-Flatiron School Data Science Phase 4 project.  .
+Flatiron School Data Science Phase 4 project Reccomendation Systems.
 
 ## Business Problem
+Netflix is looking to improve their reccomendation system for new users.  As part of a new trial membership program Netflix is looking to maximize their customer retention by providing the best possible reccomendations as possible.  
 
 ## Data Used
-data from the following sources can be found in the 'data' folder
-
+data from MovieLens can be found in the 'data' folder
+* movies.csv
+* ratings.csv
+* tags.csv
+* links.csv
 
 ## Model Evaluation
 
@@ -15,12 +19,12 @@ data from the following sources can be found in the 'data' folder
 ![Model Recall Comparison](images/model-comparison.png)
 ## Final Model
 
-![feature Importance](images/fm-features.png)
+![]()
 
 ## Deliverables
-* [Non-Technical Presentation](/pdf/non-tech-pres-syria-telcom-cflynn.pdf)
-* [GitHub Repository](https://github.com/ceflynn/Phase-3-Syria_Telcom)
-* [Jupyter Notebook](https://github.com/ceflynn/Phase-3-Syria_Telcom/blob/main/student2.ipynb)
+* [Non-Technical Presentation]()
+* [GitHub Repository](https://github.com/ceflynn/Movie-Recommendation-System)
+* [Jupyter Notebook](https://github.com/ceflynn/Movie-Recommendation-System/blob/main/student.ipynb)
 
 
 

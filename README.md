@@ -4,7 +4,7 @@
 Flatiron School Data Science Phase 4 project Reccomendation Systems.
 
 ## Business Problem
-Netflix is looking to improve their reccomendation system for new users.  As part of a new trial membership program Netflix is looking to maximize their customer retention by providing the best possible reccomendations as possible.  
+Netflix is looking to improve their reccomendation system for new users.  As part of a new trial membership program Netflix is looking to maximize their customer retention by providing the best possible reccomendations .  
 
 ## Data Used
 data from MovieLens can be found in the 'data' folder

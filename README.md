@@ -26,10 +26,7 @@ The final model was a Singular Value Decomposition(SVD) using surprise library. 
 ## Model Evaluation
 the metric used to evaluate the models was root-mean-square error (RMSE).
 
-![Model Recall Comparison](images/model-comparison.png)
-## Final Model
 
-![]()
 
 ## Deliverables
 * [Non-Technical Presentation]()

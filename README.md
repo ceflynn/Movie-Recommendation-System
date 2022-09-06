@@ -4,6 +4,8 @@
 
 Flatiron School Data Science Phase 4 project Reccomendation Systems.  The goal is to produce 5 reccomendations based on user's ratings of movies.
 
+This project is for educational purposes and Netflix has no actual affiliation with the producer or the results.
+
 ## Business Problem
 
 Netflix is looking to improve their reccomendation system for new users.  As part of a new trial membership program Netflix is looking to maximize their customer retention by providing the best possible reccomendations.  It is important that this new reccomendation system will also improve reccomendations for existing customers.

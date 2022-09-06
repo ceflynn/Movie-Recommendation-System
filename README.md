@@ -8,7 +8,7 @@ This project is for educational purposes and Netflix has no actual affiliation w
 
 ## Business Problem
 
-Netflix is looking to improve their reccomendation system for new users.  As part of a new trial membership program Netflix is looking to maximize their customer retention by providing the best possible reccomendations.  It is important that this new reccomendation system will also improve reccomendations for existing customers.
+Netflix is looking to improve their recomendation system for new users.  As part of a new trial membership program Netflix is looking to maximize their customer retention by providing the best possible recomendations.  It is important that this new recomendation system will also improve recomendations for existing customers.
 
 
 ## Data Used

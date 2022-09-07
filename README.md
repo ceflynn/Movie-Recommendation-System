@@ -38,7 +38,11 @@ the metric used to evaluate the models was root-mean-square error (RMSE).  Our b
 
 ## Sample Predictions
 
+Movie predictions from model. The top 5 rated movies.
+
 ![sample recs](images/st_rec.png)
+
+Filtered movie predictions.  The top 5 rated movies after results have been fileterd by user survey.
 
 ![custom recs](images/cust_rec.png)
 

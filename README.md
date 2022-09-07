@@ -36,7 +36,11 @@ The final model was a Singular Value Decomposition(SVD) using surprise library. 
 ## Model Evaluation
 the metric used to evaluate the models was root-mean-square error (RMSE).  Our best model had an RMSE of about .860.
 
+## Sample Predictions
 
+![sample recs](images/st_rec.png)
+
+![custom recs](images/cust_rec.png)
 
 ## Deliverables
 * [Non-Technical Presentation]()

@@ -28,7 +28,8 @@ Movies used by year
 ![movies by year](images/movies_by_year.png)
 ## Final Model
 
-The final model was a Singular Value Decomposition(SVD) using surprise library.  The model was hyper-tuned using the following parameters.
+The final model was a Singular Value Decomposition(SVD) with hyper-tuned parameters using surprise library.
+
 
 ![final model params](images/best_svd.png)
 
@@ -60,7 +61,7 @@ Our model will only be as good as our data.  We should anticipate and expect imp
 After a thorough iterative modeling process, we determined that the hypertuned svd model would be the best selection at this point.  Reccomendations would be made for the new trial users based on their initial reccomendation and the optional survey that limits the years of release and the genres of the recommendations.
 
 ## Deliverables
-* [Non-Technical Presentation]()
+* [Non-Technical Presentation](https://github.com/ceflynn/Movie-Recommendation-System/blob/main/pdf/netflix-recommendation-cflynn.pdf)
 * [GitHub Repository](https://github.com/ceflynn/Movie-Recommendation-System)
 * [Jupyter Notebook](https://github.com/ceflynn/Movie-Recommendation-System/blob/main/student.ipynb)
 

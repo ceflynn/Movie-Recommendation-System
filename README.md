@@ -30,9 +30,6 @@ Movies used by year
 
 The final model was a Singular Value Decomposition(SVD) with hyper-tuned parameters using surprise library.
 
-
-![final model params](images/best_svd.png)
-
 ## Model Evaluation
 the metric used to evaluate the models was root-mean-square error (RMSE).  Our best model had an RMSE of about .860.
 

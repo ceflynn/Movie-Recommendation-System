@@ -30,7 +30,6 @@ Movies used by year
 
 The final model was a Singular Value Decomposition(SVD) using surprise library.  The model was hyper-tuned using the following parameters.
 
-
 ![final model params](images/best_svd.png)
 
 ## Model Evaluation
@@ -45,6 +44,20 @@ Movie predictions from model. The top 5 rated movies.
 Filtered movie predictions.  The top 5 rated movies after results have been fileterd by user survey.
 
 ![custom recs](images/cust_rec.png)
+
+## Limitations
+
+Our model will only be as good as our data.  We should anticipate and expect improved metrics as our data increases.  
+
+## Recommendations and Next Steps
+
+* Develop plan to encourage users to rate more movies.  
+* Create new models using user login demographics.
+* Use Natural Language Processing(NLP) on movie scripts to gain more insight on our users preferences.
+
+## Conclusion
+
+After a thorough iterative modeling process, we determined that the hypertuned svd model would be the best selection at this point.  Reccomendations would be made for the new trial users based on their initial reccomendation and the optional survey that limits the years of release and the genres of the recommendations.
 
 ## Deliverables
 * [Non-Technical Presentation]()

@@ -2,7 +2,7 @@
 ![netflix logo](images/netflix_logo.png)
 ## Overview
 
-Flatiron School Data Science Phase 4 project Reccomendation Systems.  The goal is to produce 5 reccomendations based on user's ratings of movies.
+The goal is to produce 5 reccomendations based on user's ratings of movies.
 
 This project is for educational purposes and Netflix has no actual affiliation with the producer or the results.
 
